@@ -1,1 +1,2 @@
-print(dad)
+print("dad")
+print("dad")
